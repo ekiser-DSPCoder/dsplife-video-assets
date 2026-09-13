@@ -1,0 +1,124 @@
+{
+  "purpose": "Remaining DSPlife Etsy catalog posts awaiting a free Buffer slot. A scheduled task reads this and creates posts as slots open.",
+  "bufferOrganizationId": "6a374294481dd9c6b1c65cf6",
+  "scheduledPostCap": 10,
+  "channels": {
+    "DSPlife Shop": "6a3743ed5ab6d2f1065529d1",
+    "DSPlife Collaborative": "6a3743ed5ab6d2f1065529d0",
+    "DD Waiver Providers Network (group)": "6a3744405ab6d2f106552a86"
+  },
+  "createPostTemplate": {
+    "schedulingType": "automatic",
+    "mode": "customScheduled",
+    "metadata": {
+      "facebook": {
+        "type": "post"
+      }
+    },
+    "assetShape": [
+      {
+        "video": {
+          "url": "<videoUrl>"
+        }
+      }
+    ]
+  },
+  "queue": [
+    {
+      "id": 1,
+      "dueAt": "2026-10-02T16:30:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-success.mp4",
+      "text": "Nobody grows on their own. Every success has someone quietly watering it.\n\nThat's you. \"Support Makes Success,\" in the shop."
+    },
+    {
+      "id": 2,
+      "dueAt": "2026-10-05T07:30:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-coffee.mp4",
+      "text": "What actually gets a DSP through the morning? We asked around. The answer was unanimous: compassion, and coffee, in that order.\n\n\"Compassion + Coffee\" is live in the shop."
+    },
+    {
+      "id": 3,
+      "dueAt": "2026-10-07T12:15:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-proud.mp4",
+      "text": "This work doesn't always get the credit it's due. So we made a sticker that says it out loud: proud to be a Direct Support Professional."
+    },
+    {
+      "id": 4,
+      "dueAt": "2026-10-09T16:30:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-crew.mp4",
+      "text": "Nobody does this work solo. You've got a crew — the people who cover you, text you back at 11pm, and know exactly what kind of day it's been.\n\nTag yours."
+    },
+    {
+      "id": 5,
+      "dueAt": "2026-10-12T07:30:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-strong.mp4",
+      "text": "Showing up the way you do, day after day, takes real strength. Not the flashy kind. The kind nobody claps for.\n\n\"DSP Strong\" is new in the shop."
+    },
+    {
+      "id": 6,
+      "dueAt": "2026-10-14T12:15:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-calm.mp4",
+      "text": "Some shifts feel like a storm that won't quit. You're the calm in the middle of it, every time.\n\nNew sticker for the people who hold that line."
+    },
+    {
+      "id": 7,
+      "dueAt": "2026-10-16T16:30:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-thankyou.mp4",
+      "text": "Two words don't always feel like enough. We're saying them anyway.\n\nThank you, DSPs. You make a difference — new sticker in the shop."
+    },
+    {
+      "id": 8,
+      "dueAt": "2026-10-19T07:30:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-difference.mp4",
+      "text": "Every single shift adds up to something, whether or not anyone says so out loud.\n\nWe're saying so. \"Making a Difference Daily\" is in the shop."
+    },
+    {
+      "id": 9,
+      "dueAt": "2026-10-21T12:15:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-coffee-fall.mp4",
+      "text": "Pumpkin spice season has a job description too, apparently.\n\nFueled by coffee and compassion — the fall version is here."
+    },
+    {
+      "id": 10,
+      "dueAt": "2026-10-23T16:30:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-inaction.mp4",
+      "text": "Compassion sounds nice on a poster. You put it into action, every single shift.\n\nThat's the actual difference. New sticker in the shop."
+    },
+    {
+      "id": 11,
+      "dueAt": "2026-10-26T07:30:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-badge.mp4",
+      "text": "Direct Support Professional isn't just a job title — it's the whole badge. Now available in two colorways: teal or warm.\n\nSame pride either way. Which one's you?"
+    },
+    {
+      "id": 12,
+      "dueAt": "2026-10-28T12:15:00-04:00",
+      "channelId": "6a3743ed5ab6d2f1065529d1",
+      "channelName": "DSPlife Shop",
+      "videoUrl": "https://raw.githubusercontent.com/ekiser-DSPCoder/dsplife-video-assets/main/dspsticker-welove.mp4",
+      "text": "Closing out this run the simple way.\n\nWe love our DSPs. That's the whole caption."
+    }
+  ]
+}
